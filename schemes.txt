@@ -1,0 +1,219 @@
+Scheme Name: PM Kisan Samman Nidhi Yojana
+Category: Agriculture
+Description: Pradhan Mantri Kisan Samman Nidhi is a central government scheme that provides direct income support to small and marginal farmer families across India. The scheme was launched on 24th February 2019. Under this scheme, the government transfers Rs 6,000 per year in three equal installments of Rs 2,000 each directly into the bank accounts of eligible farmers. The aim is to supplement the financial needs of farmers for purchasing inputs related to agriculture and allied activities.
+Eligibility: All landholding farmer families with cultivable land are eligible. The family should include husband, wife, and minor children. Certain categories are excluded such as institutional landholders, farmer families with one or more members who are income tax payers, former and present holders of constitutional posts, serving or retired government employees with pension above Rs 10,000 per month, professionals like doctors, engineers, lawyers, and chartered accountants registered with professional bodies.
+Benefits: Rs 6,000 per year transferred directly to bank account in three installments of Rs 2,000 each. First installment: April to July. Second installment: August to November. Third installment: December to March.
+Documents Required: Aadhaar card, bank account details (account number and IFSC code), land ownership records, mobile number linked with Aadhaar.
+How to Apply: Farmers can register through the official PM Kisan portal at pmkisan.gov.in. They can also visit their nearest Common Service Centre (CSC) for registration. State government nodal officers can also help with registration. After registration, verification is done at the state and district level.
+Official Website: https://pmkisan.gov.in
+Helpline: PM Kisan Helpline Number - 155261 or 011-24300606
+---
+
+Scheme Name: Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY)
+Category: Health
+Description: Ayushman Bharat PM-JAY is the world's largest health insurance scheme fully funded by the government. Launched on 23rd September 2018, it provides health coverage of Rs 5 lakh per family per year for secondary and tertiary care hospitalization. The scheme covers over 12 crore poor and vulnerable families. It covers medical treatment in empanelled hospitals across India, both public and private. The scheme is cashless and paperless at the point of service.
+Eligibility: Families identified based on deprivation and occupational criteria from the Socio-Economic Caste Census 2011 (SECC 2011) database. In rural areas: families living in kutcha houses, no adult member aged 16-59, female-headed household with no adult male member, disabled member with no able-bodied adult, SC/ST households, landless households, manual casual labor families. In urban areas: rag pickers, beggars, domestic workers, street vendors, construction workers, plumbers, painters, welders, security guards, coolies, rickshaw pullers, sweepers, sanitation workers, and similar occupations.
+Benefits: Health coverage of Rs 5 lakh per family per year. Covers 1,929 medical and surgical packages including medicines, diagnostics, and transport. Cashless and paperless treatment at empanelled hospitals across India. Pre-hospitalization expenses for 3 days and post-hospitalization expenses for 15 days are covered. No restriction on family size, age, or gender.
+Documents Required: Aadhaar card or ration card for identity verification. SECC 2011 database listing is mandatory. Any government-issued photo ID.
+How to Apply: Check eligibility on the official website mera.pmjay.gov.in or by calling the helpline 14555. Visit the nearest Ayushman Bharat empanelled hospital or Common Service Centre. Show your Aadhaar card or ration card for verification. If eligible, the e-card will be generated and you can avail free treatment.
+Official Website: https://pmjay.gov.in
+Helpline: 14555 or 1800-111-565 (toll-free)
+---
+
+Scheme Name: Pradhan Mantri Awas Yojana - Gramin (PMAY-G)
+Category: Housing
+Description: Pradhan Mantri Awas Yojana Gramin is a flagship scheme of the Government of India to provide pucca houses with basic amenities to all rural households who are homeless or living in kutcha or dilapidated houses by 2024. The scheme was launched on 20th November 2016. Under PMAY-G, financial assistance of Rs 1.20 lakh is provided in plain areas and Rs 1.30 lakh in hilly states, difficult areas, and Integrated Action Plan (IAP) districts for construction of a house with a minimum area of 25 sq. meters with basic amenities.
+Eligibility: Beneficiaries are identified from the Socio-Economic Caste Census 2011 (SECC 2011) data. Priority is given to households who are homeless, living in zero, one, or two-room kutcha houses. Families should not own a motorized two-wheeler, three-wheeler, four-wheeler, fishing boat, or mechanized three or four-wheeler agricultural equipment. No family member should be a government employee or earning more than Rs 10,000 per month. The family should not be an income tax payer. The family should not own a refrigerator or a landline phone.
+Benefits: Financial assistance of Rs 1,20,000 in plain areas and Rs 1,30,000 in hilly and difficult areas. Additional Rs 12,000 for toilet construction under Swachh Bharat Mission. 90 days of unskilled labor under MGNREGA. The payment is made directly to the beneficiary's bank account in installments linked to construction stages.
+Documents Required: Aadhaar card, bank account details, SECC 2011 data listing, job card under MGNREGA, BPL certificate or equivalent, photographs.
+How to Apply: Beneficiaries are selected by the Gram Sabha from the SECC 2011 database. Citizens can check their eligibility on the PMAY-G portal. Applications can be submitted through the Gram Panchayat or Block Development Office. The Gram Sabha verifies and approves the list of beneficiaries.
+Official Website: https://pmayg.nic.in
+Helpline: 1800-11-6446 (toll-free)
+---
+
+Scheme Name: Pradhan Mantri Awas Yojana - Urban (PMAY-U)
+Category: Housing
+Description: Pradhan Mantri Awas Yojana Urban provides affordable housing for the urban poor. The scheme was launched on 25th June 2015 with the aim of providing pucca houses to all eligible urban beneficiaries. It has four components: In-Situ Slum Redevelopment, Credit Linked Subsidy Scheme (CLSS), Affordable Housing in Partnership, and Beneficiary-Led Individual House Construction. Under CLSS, interest subsidy of 3% to 6.5% is provided on home loans for EWS, LIG, and MIG categories.
+Eligibility: Economically Weaker Section (EWS) with annual household income up to Rs 3 lakh. Lower Income Group (LIG) with annual household income between Rs 3 lakh to Rs 6 lakh. Middle Income Group I (MIG-I) with annual household income between Rs 6 lakh to Rs 12 lakh. Middle Income Group II (MIG-II) with annual household income between Rs 12 lakh to Rs 18 lakh. The beneficiary family should not own a pucca house in any part of India. Women ownership or co-ownership is mandatory for EWS and LIG categories.
+Benefits: Interest subsidy of 6.5% for EWS and LIG on home loans up to Rs 6 lakh. Interest subsidy of 4% for MIG-I on home loans up to Rs 9 lakh. Interest subsidy of 3% for MIG-II on home loans up to Rs 12 lakh. Subsidy amount is directly credited to the borrower's loan account, reducing the EMI.
+Documents Required: Aadhaar card, income certificate, proof of not owning a pucca house, bank account details, property documents, home loan sanction letter, passport size photographs.
+How to Apply: Apply online through the PMAY-U portal at pmaymis.gov.in. Visit the nearest Common Service Centre (CSC). Contact the Urban Local Body (ULB) or Municipal Corporation office. Apply through banks and housing finance companies participating in CLSS.
+Official Website: https://pmaymis.gov.in
+Helpline: 1800-11-3377 (toll-free)
+---
+
+Scheme Name: Pradhan Mantri Ujjwala Yojana (PMUY)
+Category: Women Welfare / Energy
+Description: Pradhan Mantri Ujjwala Yojana was launched on 1st May 2016 to provide free LPG connections to women from Below Poverty Line (BPL) households. The scheme aims to safeguard the health of women and children by providing clean cooking fuel. Under PMUY 2.0 launched in August 2021, the scheme was extended to cover all poor households. The government provides a free LPG connection along with the first refill and a stove (hot plate) free of cost.
+Eligibility: Women belonging to BPL households. Adult women who are not already having an LPG connection in their household. Women from SC/ST households, Pradhan Mantri Awas Yojana beneficiaries, Antyodaya Anna Yojana beneficiaries, forest dwellers, most backward classes, tea and ex-tea garden tribes, and people living in islands and river islands. Under PMUY 2.0, migrant workers' families can also apply using self-declaration of address.
+Benefits: Free LPG connection (security deposit for cylinder waived). Free first LPG refill. Free hot plate (stove). EMI facility available for purchase of stove and refills from future subsidy amounts. Direct benefit transfer of LPG subsidy to the bank account.
+Documents Required: Aadhaar card of the applicant (adult woman of the household), BPL certificate or ration card, bank account details and passbook, passport size photograph, address proof (Aadhaar, voter ID, driving license). Under PMUY 2.0, self-declaration of address is acceptable for migrant workers.
+How to Apply: Visit the nearest LPG distributor (HP, Bharat, or Indane). Fill the PMUY application form. Submit documents. The distributor will verify and issue the LPG connection. Can also apply online through the official PMUY portal.
+Official Website: https://www.pmuy.gov.in
+Helpline: 1906 (LPG related queries)
+---
+
+Scheme Name: Sukanya Samriddhi Yojana (SSY)
+Category: Girl Child Welfare / Savings
+Description: Sukanya Samriddhi Yojana is a savings scheme launched on 22nd January 2015 under the Beti Bachao Beti Padhao campaign. It is designed to encourage parents to save for the future education and marriage expenses of their girl child. The account can be opened in any post office or authorized bank. It offers one of the highest interest rates among government small savings schemes. The interest rate is set by the government every quarter. The account matures 21 years from the date of opening or on the marriage of the girl child after she turns 18.
+Eligibility: Account can be opened for a girl child below the age of 10 years. Only the natural or legal guardian can open the account. Maximum two accounts can be opened for two different girl children in a family. In case of twin girls or triplets, a third account is allowed with proper documentation.
+Benefits: High interest rate (currently around 8.2% per annum, revised quarterly by the government). Minimum deposit of Rs 250 per year and maximum of Rs 1.5 lakh per year. Tax benefits under Section 80C of the Income Tax Act. Interest earned and maturity amount are completely tax-free (EEE status). Partial withdrawal of 50% of the balance is allowed after the girl turns 18 for higher education purposes.
+Documents Required: Birth certificate of the girl child, identity proof of the guardian (Aadhaar card, PAN card, passport), address proof of the guardian, passport size photographs of the guardian and girl child.
+How to Apply: Visit any authorized bank (SBI, PNB, BOB, etc.) or India Post office. Fill the Sukanya Samriddhi Account opening form. Submit the required documents. Make the initial deposit (minimum Rs 250). The account will be opened and a passbook will be issued.
+Official Website: https://www.nsiindia.gov.in
+Helpline: Contact nearest Post Office or Bank branch
+---
+
+Scheme Name: Atal Pension Yojana (APY)
+Category: Pension / Social Security
+Description: Atal Pension Yojana was launched on 9th May 2015 to provide a defined pension to workers in the unorganized sector. The scheme is administered by the Pension Fund Regulatory and Development Authority (PFRDA). Under APY, the subscriber receives a guaranteed minimum monthly pension of Rs 1,000 to Rs 5,000 after attaining the age of 60 years, depending on the contribution amount and the age of joining. The government co-contributes 50% of the subscriber's contribution or Rs 1,000 per annum, whichever is lower, for 5 years (for those who joined before 31st March 2016 and are not income tax payers).
+Eligibility: Indian citizens between the age of 18 to 40 years. Must have a bank account. Must have a valid mobile number linked with the bank account. The person should not be an income tax payer (for government co-contribution). The person should not be a member of any statutory social security scheme.
+Benefits: Guaranteed monthly pension of Rs 1,000, Rs 2,000, Rs 3,000, Rs 4,000, or Rs 5,000 after age 60. Pension amount depends on the contribution and age of joining. Spouse receives the same pension after the subscriber's death. Nominee receives the accumulated pension corpus after the death of both subscriber and spouse. Tax benefit under Section 80CCD of the Income Tax Act.
+Documents Required: Aadhaar card, bank account details, mobile number linked with bank account.
+How to Apply: Visit any bank branch where you have a savings account. Fill the APY registration form or apply through net banking or mobile banking app. Choose the pension amount (Rs 1,000 to Rs 5,000). The contribution will be auto-debited from the bank account monthly, quarterly, or half-yearly.
+Official Website: https://www.npscra.nsdl.co.in/scheme-details.php
+Helpline: 1800-889-1030 (toll-free)
+---
+
+Scheme Name: Pradhan Mantri Mudra Yojana (PMMY)
+Category: Business / Entrepreneurship
+Description: Pradhan Mantri Mudra Yojana was launched on 8th April 2015 to provide loans up to Rs 10 lakh to non-corporate, non-farm small and micro enterprises. MUDRA stands for Micro Units Development and Refinance Agency. The scheme has three categories of loans: Shishu (up to Rs 50,000), Kishore (Rs 50,001 to Rs 5 lakh), and Tarun (Rs 5,00,001 to Rs 10 lakh). No collateral is required for MUDRA loans. The scheme aims to fund the unfunded by providing affordable credit to small businesses and entrepreneurs.
+Eligibility: Any Indian citizen who wants to start or expand a small business or micro enterprise. Small manufacturing units, shopkeepers, fruit and vegetable vendors, truck operators, food service units, repair shops, machine operators, small industries, artisans, food processors, street vendors, and similar micro enterprises. The business should be a non-farm, non-corporate enterprise. The loan can be availed by individuals, proprietary concerns, partnership firms, and private limited companies.
+Benefits: Loans up to Rs 10 lakh without collateral. Three categories: Shishu (up to Rs 50,000) for startup businesses, Kishore (up to Rs 5 lakh) for mid-stage businesses, Tarun (up to Rs 10 lakh) for established businesses seeking growth. Low interest rates compared to informal lending. MUDRA Card for working capital management. No processing fee for Shishu category loans.
+Documents Required: Identity proof (Aadhaar card, voter ID, passport, driving license), address proof, business proof or plan, passport size photographs, caste certificate (if applicable for priority under SC/ST/OBC), quotation of items to be purchased with the loan, bank account statement of last 6 months.
+How to Apply: Visit any commercial bank (SBI, PNB, BOB, etc.), Regional Rural Bank (RRB), Small Finance Bank, Micro Finance Institution (MFI), or NBFC-MFI. Fill the MUDRA loan application form. Submit documents along with business plan. The loan is sanctioned based on the viability of the business plan. Can also apply through the Udyamimitra portal (udyamimitra.in).
+Official Website: https://www.mudra.org.in
+Helpline: 1800-180-1111 or 1800-11-0001
+---
+
+Scheme Name: Ladli Yojana - Delhi
+Category: Girl Child Welfare (Delhi State Scheme)
+Description: Ladli Yojana is a Delhi government scheme launched in 2008 to promote the birth and education of girl children in Delhi. The scheme provides financial assistance at various stages of a girl's life from birth to Class 12. The scheme aims to change the negative attitude towards the girl child, ensure proper education and economic empowerment. The total financial assistance can go up to Rs 36,000 which matures when the girl turns 18 and has passed Class 10 or Class 12.
+Eligibility: The girl child should be born in Delhi. The family should be a resident of Delhi for at least 3 years. The family's annual income should not exceed Rs 1 lakh. The girl should be studying in a government-recognized school in Delhi. The scheme covers up to two girl children per family. The girl should be enrolled in a school within one year of being eligible for admission.
+Benefits: Rs 11,000 at the time of birth in a hospital and Rs 10,000 if born at home. Rs 5,000 at the time of admission in Class 1. Rs 5,000 at the time of admission in Class 6. Rs 5,000 at the time of admission in Class 9. Rs 5,000 at the time of passing Class 10. Rs 5,000 at the time of passing Class 12. The total amount with interest can be withdrawn when the girl turns 18 and has passed at least Class 10.
+Documents Required: Birth certificate of the girl child, residence proof of Delhi (voter ID, ration card, electricity bill), income certificate (annual income below Rs 1 lakh), Aadhaar card of parents, school admission proof, passport size photographs, bank account details.
+How to Apply: Obtain the application form from the District Women and Child Development Office or download from the Delhi government website. Fill the form and submit with all required documents. For newborns, the hospital where the girl is born may provide the form. For school-related installments, apply through the school. The amount is deposited in an SBI account opened under the Ladli scheme.
+Official Website: https://wcd.delhi.gov.in
+Helpline: Contact District Women and Child Development Office
+---
+
+Scheme Name: Free Bus Travel for Women - Delhi
+Category: Women Welfare / Transport (Delhi State Scheme)
+Description: The Delhi government launched the free bus travel scheme for women on 29th October 2019. Under this scheme, all women can travel for free in DTC (Delhi Transport Corporation) buses and cluster buses operated by DIMTS (Delhi Integrated Multi-Modal Transit System) in Delhi. The scheme aims to encourage more women to use public transport, improve their safety, and increase their mobility for work and education. Women are issued a special pink ticket by the bus conductor.
+Eligibility: All women, regardless of age, income, or residential status, can avail free travel in DTC and cluster buses in Delhi. No registration or special pass is required. The scheme applies to all women including students, working professionals, senior citizens, and visitors.
+Benefits: Completely free travel in all DTC buses and cluster buses in Delhi. No need for any pass, card, or registration. Simply board the bus and request a pink ticket from the conductor. Available on all routes covered by DTC and cluster buses throughout Delhi.
+Documents Required: No documents are required. Women simply need to board the bus and ask for a pink ticket from the conductor.
+How to Apply: No application or registration is needed. Any woman can simply board a DTC or cluster bus and request a free pink ticket from the bus conductor.
+Official Website: https://dtc.delhi.gov.in
+Helpline: DTC Helpline - 011-23862562
+---
+
+Scheme Name: PM Vishwakarma Yojana
+Category: Artisans / Crafts / Skill Development
+Description: PM Vishwakarma Yojana was launched on 17th September 2023 to support traditional artisans and craftspeople. The scheme covers 18 traditional trades including carpenters, blacksmiths, goldsmiths, potters, sculptors, cobblers, tailors, boat makers, armourers, locksmiths, basket and mat weavers, doll and toy makers, barbers, garland makers, washermen, fishing net makers, hammer and toolkit makers, and masons. The scheme provides skill training, toolkit incentive, credit support, and digital marketing support. The objective is to strengthen and nurture the guru-shishya parampara of family-based traditional trades.
+Eligibility: Artisans and craftspeople working with their hands and tools in any of the 18 identified trades. The person should be above 18 years of age. The person should be engaged in the trade in the self-employment or unorganized sector. The person should not have availed loans under similar central or state government schemes like PMEGP or PM SVANidhi in the last 5 years. Registration is done through Common Service Centres using biometric verification.
+Benefits: Free skill training: Basic training of 5 days (with stipend of Rs 500 per day) and advanced training of 15 days. Toolkit incentive of Rs 15,000. Collateral-free credit support: first tranche of up to Rs 1 lakh at 5% concessional interest rate and second tranche of up to Rs 2 lakh at 5%. Incentive for digital transactions. Marketing support through National Committee for Marketing (NCM). PM Vishwakarma Certificate and ID card.
+Documents Required: Aadhaar card, bank account details, mobile number, ration card, caste certificate (if applicable), photographs, self-declaration of trade engagement.
+How to Apply: Visit the official PM Vishwakarma portal at pmvishwakarma.gov.in. Register using Aadhaar-based biometric verification at the nearest Common Service Centre (CSC). After verification by Gram Panchayat or ULB, the PM Vishwakarma certificate and ID card are issued. Then avail skill training, toolkit incentive, and credit support.
+Official Website: https://pmvishwakarma.gov.in
+Helpline: 1800-267-6868 (toll-free)
+---
+
+Scheme Name: PM SVANidhi - Street Vendor's AtmaNirbhar Nidhi
+Category: Street Vendors / Micro Credit
+Description: PM SVANidhi was launched on 1st June 2020 to provide affordable working capital loans to street vendors affected by the COVID-19 lockdown. The scheme facilitates collateral-free working capital loans of up to Rs 10,000 (first loan), Rs 20,000 (second loan), Rs 50,000 (third loan), and Rs 1,00,000 (fourth loan under PM SVANidhi Plus) to street vendors. The scheme promotes digital transactions and rewards vendors with cashback. It was initially designed as a COVID relief measure but has been continued to support the livelihood of street vendors.
+Eligibility: Street vendors with a Certificate of Vending or Letter of Recommendation from the Urban Local Body (ULB). Vendors who were vending on or before 24th March 2020 and have been identified in a survey conducted by ULBs. Vendors from surrounding peri-urban and rural areas who vend in urban areas are also eligible. Family members of vendors can also apply if they assist in vending.
+Benefits: First loan of up to Rs 10,000 with interest subsidy of 7%. Second loan of up to Rs 20,000 after repayment of first loan. Third loan of up to Rs 50,000 after repayment of second loan. Fourth loan of up to Rs 1,00,000 under PM SVANidhi Plus. Cashback incentive for digital transactions (up to Rs 1,200 per year). No collateral or guarantor required.
+Documents Required: Aadhaar card, Certificate of Vending or Letter of Recommendation from ULB or Town Vending Committee, bank account details, mobile number, passport size photograph.
+How to Apply: Apply online through the PM SVANidhi portal at pmsvanidhi.mohua.gov.in. Visit the nearest bank branch, Regional Rural Bank, Small Finance Bank, or MFI. Apply through Common Service Centre. The ULB issues the Letter of Recommendation for those identified in the survey.
+Official Website: https://pmsvanidhi.mohua.gov.in
+Helpline: 1800-11-1979 (toll-free)
+---
+
+Scheme Name: Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)
+Category: Rural Employment
+Description: MGNREGA is a landmark legislation enacted on 25th August 2005 that guarantees 100 days of wage employment per year to every rural household whose adult members volunteer to do unskilled manual work. The scheme provides a legal guarantee of work, making it a demand-driven program. If work is not provided within 15 days of demand, an unemployment allowance must be paid. The scheme focuses on creating durable assets like roads, canals, ponds, wells, and other rural infrastructure. The wages are paid directly to the worker's bank account.
+Eligibility: Any adult member of a rural household willing to do unskilled manual work. The household must reside in a rural area. The applicant must be above 18 years of age. The household must apply for a Job Card at the Gram Panchayat. One Job Card is issued per household and it contains photographs of all adult members who are willing to work.
+Benefits: Guaranteed 100 days of wage employment per financial year per household. Current wage rate varies by state (around Rs 250-350 per day depending on the state). Wages paid within 15 days of work through bank account or post office account. Work is provided within 5 km of the applicant's residence. If work is not provided within 15 days, an unemployment allowance is paid. Worksite facilities like drinking water, shade, and first aid must be provided.
+Documents Required: Aadhaar card, passport size photograph, proof of rural residence, bank account or post office account details, filled Job Card application form.
+How to Apply: Apply for a Job Card at the nearest Gram Panchayat office. The Gram Panchayat verifies the application and issues a Job Card within 15 days. Once the Job Card is received, submit a written application demanding work to the Gram Panchayat. Work must be provided within 15 days of the demand.
+Official Website: https://nrega.nic.in
+Helpline: 1800-345-22-44 (toll-free) or contact Gram Panchayat directly
+---
+
+Scheme Name: National Pension System (NPS)
+Category: Pension / Investment
+Description: The National Pension System is a voluntary, defined contribution retirement savings scheme launched on 1st January 2004. It is regulated by the Pension Fund Regulatory and Development Authority (PFRDA). NPS allows subscribers to contribute regularly during their working years and build a retirement corpus. At retirement, the subscriber can withdraw up to 60% of the corpus as a lump sum (tax-free) and must use the remaining 40% to purchase an annuity for regular pension. NPS offers market-linked returns through a choice of fund managers and investment options.
+Eligibility: Any Indian citizen between the age of 18 to 70 years. NRI (Non-Resident Indians) can also join. Both salaried and self-employed individuals can join. Government employees are automatically enrolled under NPS (Tier I is mandatory). For the private sector and individuals, it is voluntary.
+Benefits: Tax benefits up to Rs 1.5 lakh under Section 80C and additional Rs 50,000 under Section 80CCD(1B). Employer's contribution (up to 14% for government, 10% for others) is tax-deductible under Section 80CCD(2). At maturity, 60% lump sum withdrawal is tax-free. Flexible investment choices: Equity (E), Corporate Bonds (C), Government Securities (G), and Alternative Investment (A). Low fund management charges (0.01% to 0.09%). Portability across jobs and locations.
+Documents Required: Aadhaar card, PAN card, bank account details, passport size photograph, address proof, mobile number and email ID.
+How to Apply: Online through the eNPS portal at enps.nsdl.com using Aadhaar-based OTP authentication. Offline through any Point of Presence (PoP) registered with PFRDA (banks, post offices). Through employer for corporate NPS. Fill the registration form, submit KYC documents, and make the initial contribution.
+Official Website: https://www.npscra.nsdl.co.in
+Helpline: 1800-110-708 (toll-free)
+---
+
+Scheme Name: Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)
+Category: Life Insurance
+Description: Pradhan Mantri Jeevan Jyoti Bima Yojana was launched on 9th May 2015 to provide affordable life insurance coverage to all Indians, especially the poor and underprivileged. The scheme offers life insurance coverage of Rs 2 lakh at a premium of just Rs 436 per year (auto-debited from the bank account). The policy covers death due to any reason and is renewable on a yearly basis. The scheme is available through banks and is one of the cheapest life insurance policies available.
+Eligibility: Any Indian citizen between the age of 18 to 50 years. Must have a savings bank account. Must give consent for auto-debit of the premium from the bank account. Aadhaar is the primary KYC document. The person can join through one bank account only if they have multiple accounts.
+Benefits: Life insurance coverage of Rs 2 lakh in case of death due to any reason. Annual premium of just Rs 436 (auto-debited from bank account on or before 31st May each year). Coverage period is from 1st June to 31st May of the next year. Simple enrollment process through the bank. No medical examination required.
+Documents Required: Aadhaar card, savings bank account, consent form for auto-debit, nominee details.
+How to Apply: Visit any bank branch where you have a savings account. Fill the PMJJBY enrollment form or give consent through net banking or mobile banking app. Ensure sufficient balance in the bank account for annual premium deduction. The premium of Rs 436 will be auto-debited on or before 31st May each year.
+Official Website: https://www.jansuraksha.gov.in
+Helpline: 1800-180-1111 or 1800-110-001
+---
+
+Scheme Name: Pradhan Mantri Suraksha Bima Yojana (PMSBY)
+Category: Accident Insurance
+Description: Pradhan Mantri Suraksha Bima Yojana was launched on 9th May 2015 to provide affordable accidental insurance coverage. The scheme offers accidental death and disability insurance of Rs 2 lakh at a premium of just Rs 20 per year. It covers death or disability due to accident only (not natural death). It is one of the most affordable accident insurance policies in the world and is available through banks across India.
+Eligibility: Any Indian citizen between the age of 18 to 70 years. Must have a savings bank account. Must give consent for auto-debit of the premium. Aadhaar is the primary KYC document. Can join through one bank account only.
+Benefits: Rs 2 lakh for accidental death or total permanent disability (loss of both eyes, or loss of use of both hands or both feet, or loss of one eye and one hand or one foot). Rs 1 lakh for partial permanent disability (loss of one eye, or loss of use of one hand or one foot). Annual premium of just Rs 20 (auto-debited from bank account). Coverage period from 1st June to 31st May of the next year.
+Documents Required: Aadhaar card, savings bank account, consent form for auto-debit, nominee details.
+How to Apply: Visit any bank branch where you have a savings account. Fill the PMSBY enrollment form or give consent through net banking or mobile banking app. Ensure sufficient balance in the bank account for annual premium deduction. The premium of Rs 20 will be auto-debited on or before 31st May each year.
+Official Website: https://www.jansuraksha.gov.in
+Helpline: 1800-180-1111 or 1800-110-001
+---
+
+Scheme Name: Stand-Up India Scheme
+Category: Business / Entrepreneurship / SC-ST-Women
+Description: Stand-Up India Scheme was launched on 5th April 2016 to promote entrepreneurship among Scheduled Castes (SC), Scheduled Tribes (ST), and women. The scheme facilitates bank loans between Rs 10 lakh and Rs 1 crore to at least one SC or ST borrower and at least one woman borrower per bank branch for setting up a greenfield (new) enterprise in manufacturing, services, agri-allied activities, or the trading sector. The scheme provides a composite loan covering both term loan and working capital requirements.
+Eligibility: SC/ST and women entrepreneurs above 18 years of age. The enterprise should be a new (greenfield) enterprise in manufacturing, services, agri-allied, or trading sector. In case of non-individual enterprises, at least 51% shareholding and controlling stake should be held by SC/ST or woman entrepreneur. The borrower should not be a defaulter to any bank or financial institution. The loan is available for both new businesses and expansion of existing businesses (in some cases).
+Benefits: Composite loan between Rs 10 lakh and Rs 1 crore covering term loan and working capital. Repayment period of up to 7 years with a moratorium period of up to 18 months. Margin money of up to 25% can be provided through convergence with other schemes. Support through handholding, including guidance on business plan preparation, mentoring, and marketing.
+Documents Required: Identity proof (Aadhaar, PAN card, voter ID), address proof, caste certificate (for SC/ST applicants), business plan, project report, proof of business premises, passport size photographs, bank account statement.
+How to Apply: Apply through the Stand-Up India portal at standupmitra.in. Visit any bank branch and approach the Lead District Manager (LDM). Contact the nearest SIDBI or NABARD office. The Stand-Up India portal also connects entrepreneurs with handholding agencies for support.
+Official Website: https://www.standupmitra.in
+Helpline: 1800-180-1111
+---
+
+Scheme Name: Digital India - Common Service Centres (CSC)
+Category: Digital Services / E-Governance
+Description: Common Service Centres (CSCs) are the access points for delivery of essential public utility services, social welfare schemes, healthcare, financial, education, and agriculture services to citizens in rural and remote areas of India. CSCs are a part of the Digital India programme and operate as physical facilities for digital access. There are over 5 lakh CSCs across India. CSCs provide a wide range of government-to-citizen (G2C) and business-to-citizen (B2C) services. Citizens can use CSCs to access various government scheme registrations, certificate applications, and digital services.
+Eligibility: Any Indian citizen can use the services of Common Service Centres. CSCs are available across India in rural and urban areas. Village Level Entrepreneurs (VLEs) operate CSCs and provide assisted digital services to citizens who may not have internet access or digital literacy.
+Benefits: Access to government scheme applications: Aadhaar enrollment, PM Kisan registration, Ayushman Bharat card, pension scheme registration, etc. Banking and financial services: Aadhaar-based banking, insurance enrollment, pension services. Digital literacy training through PMGDISHA. Certificate services: Birth, death, caste, income, domicile certificates. Education services: Digital learning, skill development courses. Health services: Telemedicine, health card issuance. Bill payments and utility services.
+Documents Required: Depends on the specific service being availed. Generally, Aadhaar card and other basic identity documents are required.
+How to Apply: Visit the nearest CSC. You can locate the nearest CSC through the CSC locator at locator.csccloud.in. No prior appointment is needed. The VLE (Village Level Entrepreneur) at the CSC will assist with the required service.
+Official Website: https://csc.gov.in
+Helpline: 1800-121-3468 (toll-free)
+---
+
+Scheme Name: Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY)
+Category: Food Security
+Description: Pradhan Mantri Garib Kalyan Anna Yojana provides free foodgrains to approximately 81.35 crore beneficiaries covered under the National Food Security Act (NFSA). Originally launched in March 2020 as a relief measure during COVID-19, the scheme has been extended and made a regular programme. Under this scheme, every eligible beneficiary gets 5 kg of rice or wheat free of cost per month. This is in addition to the subsidized rations already available under NFSA through the Public Distribution System (PDS). The scheme ensures food security for the poorest sections of society.
+Eligibility: Beneficiaries must be covered under the National Food Security Act (NFSA) 2013. This includes Antyodaya Anna Yojana (AAY) households and Priority Household (PHH) cardholders. The beneficiary must possess a valid ration card (AAY or PHH category). Eligibility is determined by the state government based on socio-economic criteria.
+Benefits: 5 kg of free foodgrains (rice or wheat) per person per month for Priority Household cardholders. 35 kg per household per month for Antyodaya Anna Yojana households. The foodgrains are distributed through the Public Distribution System (PDS) at Fair Price Shops. Aadhaar-based biometric authentication ensures transparency.
+Documents Required: Valid ration card (AAY or PHH category), Aadhaar card for biometric authentication at the Fair Price Shop.
+How to Apply: No separate application is needed for PMGKAY. If you have a valid ration card under NFSA, you are automatically eligible. Visit your designated Fair Price Shop with your ration card. Authenticate using Aadhaar-based biometric verification. Collect your free monthly foodgrains. To get a new ration card, apply at the nearest Food and Civil Supplies Department or through the state's online PDS portal.
+Official Website: https://nfsa.gov.in
+Helpline: Contact state Food and Civil Supplies Department or 1967 (PDS helpline in many states)
+---
+
+Scheme Name: PM YASASVI - Yet Another Scheme for Aspiring Students from Vulnerable Indian Sections
+Category: Education / Scholarship
+Description: PM YASASVI is a scholarship scheme by the Ministry of Social Justice and Empowerment for students from OBC, EBC (Economically Backward Classes), DNT (Denotified Tribes), and Semi-Nomadic and Nomadic Tribes (SNT) communities. The scheme provides scholarships for students studying in Classes 9 to 12 in recognized schools across India. The scholarship aims to support the education of students from vulnerable sections of society who face financial constraints. The scholarship is awarded based on a national-level entrance test conducted by the National Testing Agency (NTA).
+Eligibility: Students belonging to OBC, EBC, DNT, SNT communities. Studying in Class 9 or Class 11 in a government or recognized private school. Family annual income should not exceed Rs 2.5 lakh. Students should not be availing any other scholarship. Age criteria: 15-17 years for Class 9 and 17-19 years for Class 11 (as on specific date mentioned in the notification).
+Benefits: Rs 75,000 per year for students in Class 9 and 10. Rs 1,25,000 per year for students in Class 11 and 12. The scholarship covers tuition fees, hostel fees, and other educational expenses. Directly transferred to the student's bank account.
+Documents Required: Aadhaar card, community certificate (OBC/EBC/DNT/SNT), income certificate (annual income below Rs 2.5 lakh), school enrollment proof, bank account details, passport size photograph, mark sheet of the previous class.
+How to Apply: Register and apply online through the National Scholarship Portal at scholarships.gov.in or the NTA website when the application window opens (usually around July-August). Take the PM YASASVI entrance test conducted by NTA. Merit list is prepared based on the test scores. Selected students receive the scholarship directly in their bank accounts.
+Official Website: https://yet.nta.ac.in and https://scholarships.gov.in
+Helpline: NTA Helpline - 011-40759000
+---
