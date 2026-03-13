@@ -1,6 +1,7 @@
 import streamlit as st
 import os
 import re
+import feedparser
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_community.vectorstores import FAISS
@@ -9,18 +10,19 @@ from langchain_core.runnables import RunnableParallel, RunnablePassthrough, Runn
 from langchain_core.output_parsers import StrOutputParser
 
 # --- Page Setup ---
-st.set_page_config(page_title="Jan Sahayak AI", page_icon="🏛")
+st.set_page_config(page_title="Jan Sahayak AI", page_icon="🏛", layout="wide")
 
-# --- Function to Automatically Extract Scheme Names ---
+# --- Function to Extract Scheme Names ---
 def get_all_scheme_names(file_path):
     if not os.path.exists(file_path):
         return ["PM Kisan", "Ayushman Bharat"]
     with open(file_path, "r", encoding="utf-8") as f:
         content = f.read()
+    # Scans for "Scheme: Name" or "Yojana: Name"
     found_names = re.findall(r"(?:Scheme|Yojana|Name):\s*(.*)", content)
     if not found_names:
-        return ["PM Kisan", "Ayushman Bharat", "PM Awas Yojana", "PM Ujjwala", "Sukanya Samriddhi"]
-    return list(dict.fromkeys(found_names))[:15]
+        return ["PM Kisan", "Ayushman Bharat", "PM Vishwakarma", "Sukanya Samriddhi"]
+    return list(dict.fromkeys(found_names))[:12]
 
 # --- RAG Logic ---
 @st.cache_resource
@@ -35,11 +37,8 @@ def initialize_rag():
     llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
     
     prompt = PromptTemplate(
-        template="""You are a helpful assistant for Indian Government Schemes.
-        Support both English and Hindi. Use the provided context to answer. 
-        If the context is missing, use your general knowledge.
-        Always match the language of the user's question.
-        
+        template="""You are Jan Sahayak AI, a helpful assistant for Indian Gov Schemes.
+        Match the user's language (Hindi/English). Use context first, then general knowledge.
         Context: {context}
         Question: {question}
         Answer:""",
@@ -54,56 +53,61 @@ def initialize_rag():
         | prompt | llm | StrOutputParser()
     )
 
-# --- Sidebar Disclaimer ---
+# --- Sidebar: News & Disclaimer ---
 with st.sidebar:
-    st.title("🏛 Settings & Info")
-    st.markdown("---")
+    st.title("🏛 Info Panel")
     st.markdown("""
-    ### 🌐 Bilingual Support / द्विभाषी सहायता
-    You can ask questions in both **English** and **Hindi**.
-    आप **अंग्रेजी** और **हिंदी** दोनों में प्रश्न पूछ सकते हैं।
+    ### 🌐 Bilingual Support
+    Ask in **English** or **हिंदी**.
     """)
-    st.markdown("---")
-    st.info("💡 Pick a scheme below to start.")
+    st.divider()
+    
+    st.markdown("### 🔔 Live Gov Updates (PIB)")
+    try:
+        # Fetching latest releases from PIB English Feed
+        feed = feedparser.parse("https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1")
+        for entry in feed.entries[:5]:
+            st.markdown(f"**• [{entry.title}]({entry.link})**")
+            st.caption(f"📅 {entry.published[:16]}")
+    except:
+        st.write("Live feed temporarily unavailable.")
+    
+    st.divider()
+    if st.button("Clear Conversation"):
+        st.session_state.messages = []
+        st.rerun()
 
-# --- App Logic ---
+# --- Main App Logic ---
 st.title("🏛 Jan Sahayak AI")
+st.caption("🚀 Supports English & Hindi | 24/7 Government Scheme Guide")
 
-# Bilingual Headline Disclaimer
-st.caption("🚀 Supports English & Hindi | अंग्रेजी और हिंदी का समर्थन करता है")
-
+# API Key Check
 if "OPENAI_API_KEY" in st.secrets:
     os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 else:
-    st.error("Missing API Key in Secrets!")
+    st.error("Missing API Key in Streamlit Secrets!")
     st.stop()
 
 # --- Suggestions Section ---
+st.write("### Quick Access:")
 all_schemes = get_all_scheme_names("schemes.txt")
-selected_pill = st.pills(
-    "Available Schemes:", 
-    all_schemes, 
-    selection_mode="single"
-)
+selected_pill = st.pills("Click to learn more:", all_schemes, selection_mode="single", label_visibility="collapsed")
 
-# Initialize messages
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
-# Display history
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
 
-# Combine Input
+# --- Combined Input Logic ---
 user_query = None
 if selected_pill:
     user_query = f"Tell me about {selected_pill}"
 
-if chat_input := st.chat_input("Ask a question in English or Hindi..."):
+if chat_input := st.chat_input("Ask a question..."):
     user_query = chat_input
 
-# --- Generate Response ---
 if user_query:
     if not st.session_state.messages or st.session_state.messages[-1]["content"] != user_query:
         st.session_state.messages.append({"role": "user", "content": user_query})
@@ -111,7 +115,8 @@ if user_query:
             st.markdown(user_query)
         
         with st.chat_message("assistant"):
-            chain = initialize_rag()
-            response = chain.invoke(user_query)
-            st.markdown(response)
-            st.session_state.messages.append({"role": "assistant", "content": response})
+            with st.spinner("Processing..."):
+                chain = initialize_rag()
+                response = chain.invoke(user_query)
+                st.markdown(response)
+                st.session_state.messages.append({"role": "assistant", "content": response})
