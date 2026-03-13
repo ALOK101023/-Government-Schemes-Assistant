@@ -12,17 +12,22 @@ from langchain_core.output_parsers import StrOutputParser
 # --- Page Setup ---
 st.set_page_config(page_title="Jan Sahayak AI", page_icon="🏛", layout="wide")
 
-# --- Function to Extract Scheme Names ---
+# --- Function to Extract Scheme Names from your file ---
 def get_all_scheme_names(file_path):
     if not os.path.exists(file_path):
         return ["PM Kisan", "Ayushman Bharat"]
     with open(file_path, "r", encoding="utf-8") as f:
         content = f.read()
-    # Scans for "Scheme: Name" or "Yojana: Name"
-    found_names = re.findall(r"(?:Scheme|Yojana|Name):\s*(.*)", content)
+    
+    # This looks for lines like "Scheme: PM Kisan" or "Name: PM Kisan"
+    # If your file just lists names, we can adjust this regex.
+    found_names = re.findall(r"(?:Scheme|Name|Yojana):\s*(.*)", content)
+    
     if not found_names:
+        # Fallback list if the scanner doesn't find the "Scheme:" tag
         return ["PM Kisan", "Ayushman Bharat", "PM Vishwakarma", "Sukanya Samriddhi"]
-    return list(dict.fromkeys(found_names))[:12]
+    
+    return list(dict.fromkeys(found_names))[:15] # Return unique names
 
 # --- RAG Logic ---
 @st.cache_resource
@@ -37,8 +42,10 @@ def initialize_rag():
     llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
     
     prompt = PromptTemplate(
-        template="""You are Jan Sahayak AI, a helpful assistant for Indian Gov Schemes.
-        Match the user's language (Hindi/English). Use context first, then general knowledge.
+        template="""You are Jan Sahayak AI. Answer using the context. 
+        Match the user's language (Hindi or English).
+        If not in context, use your knowledge to help.
+        
         Context: {context}
         Question: {question}
         Answer:""",
@@ -53,45 +60,41 @@ def initialize_rag():
         | prompt | llm | StrOutputParser()
     )
 
-# --- Sidebar: News & Disclaimer ---
+# --- Sidebar: News & Language Support ---
 with st.sidebar:
-    st.title("🏛 Info Panel")
-    st.markdown("""
-    ### 🌐 Bilingual Support
-    Ask in **English** or **हिंदी**.
-    """)
+    st.title("🏛 Info Hub")
+    st.markdown("### 🌐 Language / भाषा\nSupports **English** & **हिंदी**")
     st.divider()
     
-    st.markdown("### 🔔 Live Gov Updates (PIB)")
+    st.markdown("### 🔔 Latest Gov News (PIB)")
     try:
-        # Fetching latest releases from PIB English Feed
+        # Live RSS feed from Press Information Bureau
         feed = feedparser.parse("https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1")
         for entry in feed.entries[:5]:
             st.markdown(f"**• [{entry.title}]({entry.link})**")
             st.caption(f"📅 {entry.published[:16]}")
     except:
-        st.write("Live feed temporarily unavailable.")
+        st.write("Live news feed is refreshing...")
     
     st.divider()
-    if st.button("Clear Conversation"):
+    if st.button("🗑 Clear Chat"):
         st.session_state.messages = []
         st.rerun()
 
-# --- Main App Logic ---
+# --- Main App ---
 st.title("🏛 Jan Sahayak AI")
-st.caption("🚀 Supports English & Hindi | 24/7 Government Scheme Guide")
+st.caption("Real-time Government Schemes Guide | अंग्रेजी और हिंदी सहायता")
 
-# API Key Check
 if "OPENAI_API_KEY" in st.secrets:
     os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 else:
-    st.error("Missing API Key in Streamlit Secrets!")
+    st.error("Please add OPENAI_API_KEY to Streamlit Secrets!")
     st.stop()
 
-# --- Suggestions Section ---
-st.write("### Quick Access:")
+# --- Dynamic Pills (Options from File) ---
+st.write("### Quick Select:")
 all_schemes = get_all_scheme_names("schemes.txt")
-selected_pill = st.pills("Click to learn more:", all_schemes, selection_mode="single", label_visibility="collapsed")
+selected_pill = st.pills("Choose a scheme:", all_schemes, selection_mode="single", label_visibility="collapsed")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -100,13 +103,13 @@ for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
 
-# --- Combined Input Logic ---
+# --- Combined Input Handling ---
 user_query = None
 if selected_pill:
-    user_query = f"Tell me about {selected_pill}"
+    user_query = f"Provide full details of {selected_pill}"
 
-if chat_input := st.chat_input("Ask a question..."):
-    user_query = chat_input
+if prompt := st.chat_input("Ask a question in English or Hindi..."):
+    user_query = prompt
 
 if user_query:
     if not st.session_state.messages or st.session_state.messages[-1]["content"] != user_query:
@@ -115,7 +118,7 @@ if user_query:
             st.markdown(user_query)
         
         with st.chat_message("assistant"):
-            with st.spinner("Processing..."):
+            with st.spinner("Searching..."):
                 chain = initialize_rag()
                 response = chain.invoke(user_query)
                 st.markdown(response)
